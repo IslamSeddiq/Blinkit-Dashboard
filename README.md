@@ -39,3 +39,8 @@ I'm a Junior Data Analyst with a passion for turning raw data into actionable in
 This Power BI project provides a **comprehensive analysis of Blinkit’s sales performance**, offering key insights into outlet distribution, item performance, and revenue trends to support data-driven decision-making.
 
 ---
+
+## Get in Touch 📬
+- **[Phone Number]**(20 1201991890)
+- **[Personal Website / Blog]**(https://www.canva.com/design/DAGeDwn60FY/xY0llUzQWp5yekWU_03X4w/edit?utm_content=DAGeDwn60FY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **[LinkedIn]**(https://www.linkedin.com/in/islamseddiq/)
