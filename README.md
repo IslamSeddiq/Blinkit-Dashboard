@@ -30,7 +30,8 @@ I'm a Junior Data Analyst with a passion for turning raw data into actionable in
 ## 💡 Insights for Decision-Making
 - High-performing **Outlet Types** (Supermarkets lead with $572K+ sales)  
 - **Tier 3 outlets** outperform others in revenue contribution  
-- Clear visibility into **low-fat vs. regular product sales mix**  
+- Clear visibility into **low-fat vs. regular product sales mix**
+- **Medium-sized outlets** generate the highest share of revenue
 
 ---
 
